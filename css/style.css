@@ -152,3 +152,10 @@ p.resume{
 	width: 100px;
 	color:rgb(72,72,72);
 }
+
+/*//////////////////portfolio.html//////////////////*/
+#portfolioWrap{
+	width:1200px;
+	padding-top:80px;
+	margin: 0px auto;
+}
